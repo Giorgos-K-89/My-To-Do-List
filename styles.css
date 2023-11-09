@@ -140,3 +140,7 @@ g[id^="Window_"],
     transform: translate3d(4px, 0, 0);
   }
 }
+footer {
+  text-align: center;
+  margin-top: 50px;
+}
